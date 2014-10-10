@@ -1,0 +1,12 @@
+*.swp
+*~
+*_pb2.py
+*.pyc
+*.tar
+*.tar.*
+*.md
+.*
+*.beam
+*.lock
+_build/
+deps/
