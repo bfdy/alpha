@@ -1,0 +1,8 @@
+*.swp
+*~
+*_pb2.py
+*.pyc
+*.tar
+*.tar.*
+*.md
+.*
